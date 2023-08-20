@@ -26,7 +26,7 @@
     "babel-plugin-prismjs": "^2.1.0",
     "compare-versions": "^6.0.0",
     "core-js": "^3.31.1",
-    "electron-builder": "^24.4.0",
+    "electron-builder": "^24.6.2",
     "katex": "^0.16.8",
     "langchain": "~0.0.110",
     "material-design-icons": "^3.0.1",
