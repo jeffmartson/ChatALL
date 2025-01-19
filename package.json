@@ -27,7 +27,7 @@
     "compare-versions": "^6.0.0",
     "core-js": "^3.31.1",
     "electron-builder": "^24.4.0",
-    "katex": "^0.16.8",
+    "katex": "^0.16.21",
     "langchain": "~0.0.110",
     "material-design-icons": "^3.0.1",
     "sortablejs": "^1.15.0",
